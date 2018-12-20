@@ -1,0 +1,23 @@
+body{
+  background-color: #3ec4a4 !important;
+
+}
+
+button{
+  background: rgba(24,77,64,0)!important;
+  border-color: #FFFFFF!important;
+
+}
+
+container{
+  margin: auto;
+}
+
+h3 mb-3 font-weight-normal{
+  line-height: 0.5;
+
+}
+
+p{
+  color:white;
+}
